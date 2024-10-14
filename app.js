@@ -1,1 +1,5 @@
-console.log('hello world to github');
+console.log('hello from omar');
+
+
+console.log('first commit');
+
